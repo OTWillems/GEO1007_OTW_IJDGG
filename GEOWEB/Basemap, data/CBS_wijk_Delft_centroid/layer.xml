@@ -1,0 +1,15 @@
+<layer>
+  <name>CBS_wijk_Delft_centroid</name>
+  <id>LayerInfoImpl--395ebc0f:1550c322222:-7ff1</id>
+  <type>VECTOR</type>
+  <defaultStyle>
+    <id>StyleInfoImpl--395ebc0f:1550c322222:-7ff5</id>
+  </defaultStyle>
+  <resource class="featureType">
+    <id>FeatureTypeInfoImpl--395ebc0f:1550c322222:-7ff2</id>
+  </resource>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+</layer>

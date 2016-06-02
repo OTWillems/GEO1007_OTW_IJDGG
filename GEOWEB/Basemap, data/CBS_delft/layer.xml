@@ -1,0 +1,15 @@
+<layer>
+  <name>CBS_delft</name>
+  <id>LayerInfoImpl--65e07212:15506cfea17:-7fc3</id>
+  <type>VECTOR</type>
+  <defaultStyle>
+    <id>StyleInfoImpl--65e07212:15506cfea17:-7ff6</id>
+  </defaultStyle>
+  <resource class="featureType">
+    <id>FeatureTypeInfoImpl--65e07212:15506cfea17:-7fc4</id>
+  </resource>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+</layer>

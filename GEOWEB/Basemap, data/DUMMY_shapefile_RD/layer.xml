@@ -1,0 +1,15 @@
+<layer>
+  <name>DUMMY_shapefile_RD</name>
+  <id>LayerInfoImpl--65e07212:15506cfea17:-7fbb</id>
+  <type>VECTOR</type>
+  <defaultStyle>
+    <id>StyleInfoImpl--65e07212:15506cfea17:-7fc0</id>
+  </defaultStyle>
+  <resource class="featureType">
+    <id>FeatureTypeInfoImpl--65e07212:15506cfea17:-7fbc</id>
+  </resource>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+</layer>

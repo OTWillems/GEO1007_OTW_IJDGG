@@ -1,0 +1,80 @@
+<featureType>
+  <id>FeatureTypeInfoImpl--395ebc0f:1550c322222:-7ff8</id>
+  <name>CBS_wijk_Delft</name>
+  <nativeName>CBS_wijk_Delft</nativeName>
+  <namespace>
+    <id>NamespaceInfoImpl--65e07212:15506cfea17:-7fff</id>
+  </namespace>
+  <title>CBS_wijk_Delft</title>
+  <keywords>
+    <string>features</string>
+    <string>CBS_wijk_Delft</string>
+  </keywords>
+  <nativeCRS class="projected">PROJCS[&quot;Amersfoort_RD_New&quot;, &#xd;
+  GEOGCS[&quot;GCS_Amersfoort&quot;, &#xd;
+    DATUM[&quot;D_Amersfoort&quot;, &#xd;
+      SPHEROID[&quot;Bessel_1841&quot;, 6377397.155, 299.1528128]], &#xd;
+    PRIMEM[&quot;Greenwich&quot;, 0.0], &#xd;
+    UNIT[&quot;degree&quot;, 0.017453292519943295], &#xd;
+    AXIS[&quot;Longitude&quot;, EAST], &#xd;
+    AXIS[&quot;Latitude&quot;, NORTH]], &#xd;
+  PROJECTION[&quot;Oblique_Stereographic&quot;], &#xd;
+  PARAMETER[&quot;central_meridian&quot;, 5.387638888888891], &#xd;
+  PARAMETER[&quot;latitude_of_origin&quot;, 52.15616055555556], &#xd;
+  PARAMETER[&quot;scale_factor&quot;, 0.9999079], &#xd;
+  PARAMETER[&quot;false_easting&quot;, 155000.0], &#xd;
+  PARAMETER[&quot;false_northing&quot;, 463000.0], &#xd;
+  UNIT[&quot;m&quot;, 1.0], &#xd;
+  AXIS[&quot;x&quot;, EAST], &#xd;
+  AXIS[&quot;y&quot;, NORTH]]</nativeCRS>
+  <srs>EPSG:28992</srs>
+  <nativeBoundingBox>
+    <minx>81743.0000285022</minx>
+    <maxx>87703.7750285007</maxx>
+    <miny>442446.2080357</miny>
+    <maxy>449847.95203569904</maxy>
+    <crs class="projected">PROJCS[&quot;Amersfoort_RD_New&quot;, &#xd;
+  GEOGCS[&quot;GCS_Amersfoort&quot;, &#xd;
+    DATUM[&quot;D_Amersfoort&quot;, &#xd;
+      SPHEROID[&quot;Bessel_1841&quot;, 6377397.155, 299.1528128]], &#xd;
+    PRIMEM[&quot;Greenwich&quot;, 0.0], &#xd;
+    UNIT[&quot;degree&quot;, 0.017453292519943295], &#xd;
+    AXIS[&quot;Longitude&quot;, EAST], &#xd;
+    AXIS[&quot;Latitude&quot;, NORTH]], &#xd;
+  PROJECTION[&quot;Oblique_Stereographic&quot;], &#xd;
+  PARAMETER[&quot;central_meridian&quot;, 5.387638888888891], &#xd;
+  PARAMETER[&quot;latitude_of_origin&quot;, 52.15616055555556], &#xd;
+  PARAMETER[&quot;scale_factor&quot;, 0.9999079], &#xd;
+  PARAMETER[&quot;false_easting&quot;, 155000.0], &#xd;
+  PARAMETER[&quot;false_northing&quot;, 463000.0], &#xd;
+  UNIT[&quot;m&quot;, 1.0], &#xd;
+  AXIS[&quot;x&quot;, EAST], &#xd;
+  AXIS[&quot;y&quot;, NORTH]]</crs>
+  </nativeBoundingBox>
+  <latLonBoundingBox>
+    <minx>4.320702400342141</minx>
+    <maxx>4.409009052538221</maxx>
+    <miny>51.96579819944059</miny>
+    <maxy>52.03307224957421</maxy>
+    <crs>GEOGCS[&quot;WGS84(DD)&quot;, &#xd;
+  DATUM[&quot;WGS84&quot;, &#xd;
+    SPHEROID[&quot;WGS84&quot;, 6378137.0, 298.257223563]], &#xd;
+  PRIMEM[&quot;Greenwich&quot;, 0.0], &#xd;
+  UNIT[&quot;degree&quot;, 0.017453292519943295], &#xd;
+  AXIS[&quot;Geodetic longitude&quot;, EAST], &#xd;
+  AXIS[&quot;Geodetic latitude&quot;, NORTH]]</crs>
+  </latLonBoundingBox>
+  <projectionPolicy>FORCE_DECLARED</projectionPolicy>
+  <enabled>true</enabled>
+  <metadata>
+    <entry key="cachingEnabled">false</entry>
+  </metadata>
+  <store class="dataStore">
+    <id>DataStoreInfoImpl--65e07212:15506cfea17:-7ffd</id>
+  </store>
+  <maxFeatures>0</maxFeatures>
+  <numDecimals>0</numDecimals>
+  <overridingServiceSRS>false</overridingServiceSRS>
+  <skipNumberMatched>false</skipNumberMatched>
+  <circularArcPresent>false</circularArcPresent>
+</featureType>

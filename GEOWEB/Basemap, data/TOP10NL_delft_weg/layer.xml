@@ -1,0 +1,15 @@
+<layer>
+  <name>TOP10NL_delft_weg</name>
+  <id>LayerInfoImpl--65e07212:15506cfea17:-7fcf</id>
+  <type>VECTOR</type>
+  <defaultStyle>
+    <id>StyleInfoImpl--65e07212:15506cfea17:-7ff3</id>
+  </defaultStyle>
+  <resource class="featureType">
+    <id>FeatureTypeInfoImpl--65e07212:15506cfea17:-7fd0</id>
+  </resource>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+</layer>

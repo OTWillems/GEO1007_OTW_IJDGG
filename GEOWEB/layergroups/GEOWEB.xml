@@ -1,0 +1,62 @@
+<layerGroup>
+  <id>LayerGroupInfoImpl--65e07212:15506cfea17:-7fce</id>
+  <name>GEOWEB</name>
+  <mode>SINGLE</mode>
+  <title>GEOWEB - Webmap OTW IJDGG</title>
+  <workspace>
+    <id>WorkspaceInfoImpl--65e07212:15506cfea17:-8000</id>
+  </workspace>
+  <publishables>
+    <published type="layer">
+      <id>LayerInfoImpl--65e07212:15506cfea17:-7fc7</id>
+    </published>
+    <published type="layer">
+      <id>LayerInfoImpl--65e07212:15506cfea17:-7fed</id>
+    </published>
+    <published type="layer">
+      <id>LayerInfoImpl--65e07212:15506cfea17:-7fcf</id>
+    </published>
+    <published type="layer">
+      <id>LayerInfoImpl--65e07212:15506cfea17:-7fe3</id>
+    </published>
+    <published type="layer">
+      <id>LayerInfoImpl--65e07212:15506cfea17:-7fc3</id>
+    </published>
+    <published type="layer">
+      <id>LayerInfoImpl--395ebc0f:1550c322222:-7ff7</id>
+    </published>
+    <published type="layer">
+      <id>LayerInfoImpl--65e07212:15506cfea17:-7fdf</id>
+    </published>
+  </publishables>
+  <styles>
+    <style>
+      <id>StyleInfoImpl--65e07212:15506cfea17:-7ff2</id>
+    </style>
+    <style>
+      <id>StyleInfoImpl--65e07212:15506cfea17:-7ff1</id>
+    </style>
+    <style>
+      <id>StyleInfoImpl--65e07212:15506cfea17:-7ff3</id>
+    </style>
+    <style>
+      <id>StyleInfoImpl--65e07212:15506cfea17:-7fe7</id>
+    </style>
+    <style>
+      <id>StyleInfoImpl--65e07212:15506cfea17:-7ff6</id>
+    </style>
+    <style>
+      <id>StyleInfoImpl--395ebc0f:1550c322222:-7ffc</id>
+    </style>
+    <style>
+      <id>StyleInfoImpl--65e07212:15506cfea17:-7fd5</id>
+    </style>
+  </styles>
+  <bounds>
+    <minx>81634.24186140706</minx>
+    <maxx>87803.56327933402</maxx>
+    <miny>442362.3295828702</miny>
+    <maxy>449932.05038221885</maxy>
+    <crs class="projected">EPSG:28992</crs>
+  </bounds>
+</layerGroup>
